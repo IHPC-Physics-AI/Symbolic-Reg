@@ -1,2 +1,4 @@
-# Symbolic-Reg
+# Symbolic-Regression
+
+
 Symbolic Regression Experiments
