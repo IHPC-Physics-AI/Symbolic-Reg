@@ -7,7 +7,7 @@ This repository contains four Symbolic Regression Experiments:
   3. Lotka-Volterra
   4. Helmholtz
 
-### Running Scripts:
+### Running Scripts
 Please refer to each folder's individual ReadMe file for more information. Each folder contains scripts for three symbolic regressor packages: AI Feynman 2.0, PySR, and GPLearn. The scripts are compatible with package versions as of 19/08/23. The scripts were tested on Google Colab so minor changes regarding the current directory and OS commands may need to be made. Upon running, the scripts will generate data files in your local folder.
 
 ### Credits 
